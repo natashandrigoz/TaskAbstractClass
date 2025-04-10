@@ -1,0 +1,7 @@
+D:\Си#\проекты\Абстрактный класс и абстрактные члены класса\AVehicle\bin\Debug\AVehicle.exe.config
+D:\Си#\проекты\Абстрактный класс и абстрактные члены класса\AVehicle\bin\Debug\AVehicle.exe
+D:\Си#\проекты\Абстрактный класс и абстрактные члены класса\AVehicle\bin\Debug\AVehicle.pdb
+D:\Си#\проекты\Абстрактный класс и абстрактные члены класса\AVehicle\obj\Debug\AVehicle.csproj.AssemblyReference.cache
+D:\Си#\проекты\Абстрактный класс и абстрактные члены класса\AVehicle\obj\Debug\AVehicle.csproj.CoreCompileInputs.cache
+D:\Си#\проекты\Абстрактный класс и абстрактные члены класса\AVehicle\obj\Debug\AVehicle.exe
+D:\Си#\проекты\Абстрактный класс и абстрактные члены класса\AVehicle\obj\Debug\AVehicle.pdb
